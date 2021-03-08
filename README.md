@@ -1,1 +1,1 @@
-# morals-police-discord-bot
+# mp-discord-bot
